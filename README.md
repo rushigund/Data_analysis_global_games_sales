@@ -1,52 +1,80 @@
-# Global Video Game Sales Analysis 📊🎮
+# 🎮 Global Video Game Sales Analysis Using Power BI
 
 ## 📌 Project Overview
 
-The **Global Video Game Sales Analysis** project focuses on exploring and visualizing worldwide video game sales data using **Microsoft Power BI**. The objective is to understand gaming industry trends, analyze sales performance across different regions, and identify popular gaming platforms, genres, and publishers.
+The **Global Video Game Sales Analysis** project is a data analytics and visualization project developed using **Microsoft Power BI**.
 
-The project presents sales data through visualizations, making it easier to understand market trends and compare performance across different categories.
+This project utilizes the **Video Game Sales Dataset** to analyze worldwide video game sales trends, regional market performance, popular gaming platforms, genres, and publishers.
+
+The primary objective is to transform raw video game sales data into meaningful visualizations that help understand the global gaming industry's performance.
+
+## 📊 Power BI Dashboard
+
+The following dashboard provides a visual representation of video game sales data.
+
+![Global Video Game Sales Dashboard](images/dashboard.png)
+
+## 📂 Dataset Information
+
+**Dataset Used:** Video Game Sales Dataset
+
+The dataset contains historical video game sales records, including information about game titles, platforms, genres, publishers, release years, and regional sales.
+
+### Dataset Features
+
+| Feature | Description |
+|---|---|
+| Name | Name of the video game |
+| Platform | Gaming platform (PS, Xbox, Nintendo, PC, etc.) |
+| Year | Year of release |
+| Genre | Category of the video game |
+| Publisher | Company responsible for publishing the game |
+| NA_Sales | Sales in North America (millions) |
+| EU_Sales | Sales in Europe (millions) |
+| JP_Sales | Sales in Japan (millions) |
+| Other_Sales | Sales in other regions (millions) |
+| Global_Sales | Worldwide sales (millions) |
 
 ## 🎯 Project Objectives
 
 - Analyze global video game sales trends.
 - Compare regional sales performance across North America, Europe, Japan, and other markets.
 - Identify top-performing gaming platforms and genres.
-- Explore sales distribution among different publishers.
-- Understand historical sales patterns and market trends.
-- Present insights through Power BI visualizations.
+- Explore sales performance across different publishers.
+- Analyze historical sales trends.
+- Develop meaningful data visualizations using Power BI.
 
 ## 🛠️ Technologies Used
 
-- **Microsoft Power BI:** Data analysis, dashboard creation, and visualization.
-- **Power Query:** Data preparation and transformation.
-- **Data Visualization:** Graphs, charts, and comparative analysis.
+- **Microsoft Power BI** – Dashboard development and data visualization.
+- **Power Query** – Data cleaning and transformation.
+- **Video Game Sales Dataset** – Data source for analysis.
+- **Business Intelligence** – Data exploration and insights.
 
-## 📊 Key Analysis Areas
+## 🔍 Key Analysis Areas
 
 ### 1. Global Sales Analysis
-Analyze overall video game sales performance and compare the contribution of different gaming markets.
+Analyze worldwide video game sales and identify overall market trends.
 
 ### 2. Regional Sales Comparison
-Examine sales distribution across major geographical regions, including North America, Europe, Japan, and other regions.
+Compare sales performance across North America, Europe, Japan, and other geographical regions.
 
 ### 3. Platform and Genre Analysis
-Compare gaming platforms and genres to understand their relative popularity and sales performance.
+Explore the performance of different gaming platforms and genres.
 
 ### 4. Publisher Performance
-Explore sales performance across video game publishers to identify leading contributors to the gaming industry.
+Analyze video game publishers and compare their sales contributions.
 
 ### 5. Historical Sales Trends
-Visualize sales patterns across different years to understand how the gaming market has evolved.
+Understand how video game sales have changed over different years.
 
 ## 📈 Project Outcome
 
-The project demonstrates how business intelligence and data visualization techniques can be used to explore video game sales data and communicate market insights.
+This project demonstrates the application of **data analytics, business intelligence, and interactive dashboard development** to the gaming industry.
 
-It highlights practical skills in data analysis, dashboard development, and interpreting business trends using Power BI.
+Using the Video Game Sales Dataset and Microsoft Power BI, the project aims to provide insights into gaming market trends, regional sales distribution, and platform performance.
 
-## 📂 Project Files
-
-The repository contains the Power BI report, a project presentation, and supporting screenshots.
+![Global Video Game Sales Dashboard](images/dashboard.png)
 
 ## 👨‍💻 Author
 
