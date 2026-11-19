@@ -12,7 +12,7 @@ The primary objective is to transform raw video game sales data into meaningful 
 
 The following dashboard provides a visual representation of video game sales data.
 
-![Global Video Game Sales Dashboard](dashboard.png)
+![Global Video Game Sales Dashboard](Data_visaulization.png)
 
 ## 📂 Dataset Information
 
