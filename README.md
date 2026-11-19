@@ -12,7 +12,7 @@ The primary objective is to transform raw video game sales data into meaningful 
 
 The following dashboard provides a visual representation of video game sales data.
 
-![Global Video Game Sales Dashboard](Data_visaulization.png)
+![Global Video Game Sales Dashboard](Data_visaulization.PNG)
 
 ## 📂 Dataset Information
 
@@ -74,7 +74,7 @@ This project demonstrates the application of **data analytics, business intellig
 
 Using the Video Game Sales Dataset and Microsoft Power BI, the project aims to provide insights into gaming market trends, regional sales distribution, and platform performance.
 
-![Global Video Game Sales Dashboard](Data_visaulization.png)
+![Global Video Game Sales Dashboard](Data_visaulization.PNG)
 
 ## 👨‍💻 Author
 
