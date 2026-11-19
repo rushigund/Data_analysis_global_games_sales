@@ -74,7 +74,7 @@ This project demonstrates the application of **data analytics, business intellig
 
 Using the Video Game Sales Dataset and Microsoft Power BI, the project aims to provide insights into gaming market trends, regional sales distribution, and platform performance.
 
-![Global Video Game Sales Dashboard](images/dashboard.png)
+![Global Video Game Sales Dashboard](Data_visaulization.png)
 
 ## 👨‍💻 Author
 
